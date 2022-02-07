@@ -12,10 +12,11 @@
     color: #FFFFFF;
     height: 48px;
     width: 20%;
-    border: none;
+    border: 0;
     border-radius: 4px;
-    margin-right: 30px;
-    margin-left: auto;
+    margin: 11px 30px 0 0;
+    opacity: 1;
+    float: right;
 }
 
 .filters button:hover {
